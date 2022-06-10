@@ -1,6 +1,5 @@
 # Créer un to Do list
 
-ToDoList
 Le but est de créer un tableau HTML gérant une « To Do List ». Le tableau sera créé à la demande de l’utilisateur lors de l’appui d’un clic.
 
 Le format du tableau
