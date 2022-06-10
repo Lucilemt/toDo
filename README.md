@@ -3,6 +3,7 @@
 Le but est de créer un tableau HTML gérant une « To Do List ». Le tableau sera créé à la demande de l’utilisateur lors de l’appui d’un clic.
 
 Le format du tableau
+
 Nom des colonnes :
 id : index (nombre entier commençant à 0 et s’incrémente à chaque ligne) Tâches : chaîne de caractères Etat : booléen («completé» ou «non completé») Supprimer : bouton « Supprimer »
 Remplissage du tableau : Remplir les données avec un JSON récupéré (jsonplaceholder https://jsonplaceholder.typicode.com/todos/)
