@@ -11,11 +11,9 @@ Remplissage du tableau : Remplir les données avec un JSON récupéré (jsonplac
 Évènements :
 
 Suppression 
-
 Lors d’un clic sur un des boutons « Supprimer », on affiche une boîte de dialogue de confirmation (« confirm ») pour avoir une validation de suppression. Si l’utilisateur clique sur « Ok » on supprime la ligne correspondante au bouton. 
 
 Ajout 
-
 Lors d’un clic sur le bouton « Ajout » on propose à l’utilisateur d’ajouter une ligne :
 L’id n’est pas renseigné par l’utilisateur, il sera généré automatiquement
 Le nom de la tâche est renseigné par l’utilisateur
